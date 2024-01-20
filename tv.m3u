@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2021-12%2F36114f8d-36a2-4674-b4ec-4e0c10695e19%2F5906d988cbd5eb90d1c433ebdac1f926.jpg?auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=376" group-title="KIDS", BPL 
-http://103.141.2.37:25461/live/web/web/592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2021-12%2F36114f8d-36a2-4674-b4ec-4e0c10695e19%2F5906d988cbd5eb90d1c433ebdac1f926.jpg?auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=376" group-title="KIDS", BPL (GTV)
-http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS", DURONTO TV
+https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="KIDS", DISNEY HINDI
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
