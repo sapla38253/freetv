@@ -4,21 +4,21 @@
 https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="DISNEY HD" tvg-logo="https://www.pxpng.com/public/uploads/preview/-11629583768lpif33ryhr.png" group-title="KIDS", DISNEY HD
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="DISNEY SD" tvg-logo=" " group-title="KIDS", DISNEY SD
-{ }
-
+#EXTINF:-1 tvg-id="3" tvg-name="DISNEY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/220px-2019_Disney_Channel_logo.svg.png" group-title="KIDS", DISNEY SD
+http://opplex.tv:8080/live/122461/4627451/167551.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="NICK" tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS", NICK
 https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="NICK JR" tvg-logo=" " group-title="KIDS", NICK JR
+{ }
 
-#EXTINF:-1 tvg-id="5" tvg-name="DISCOVERY KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS", DISCOVERY KIDS
+#EXTINF:-1 tvg-id="6" tvg-name="DISCOVERY KIDS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" group-title="KIDS", DISCOVERY KIDS
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=52
 
 
 
 
 
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" ", { }
-{ }
+
 
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title=" ", { }
 { }
